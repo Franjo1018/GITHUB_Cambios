@@ -38,6 +38,7 @@ namespace GITHUB_Cambios
             {
                 Console.WriteLine("Los numeros son Diferentes.");
             }
+            ///////////////////////////////////
         }
     }
 }
