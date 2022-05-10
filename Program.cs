@@ -29,7 +29,7 @@ namespace GITHUB_Cambios
             //modificado por jose santa cruz
             Console.WriteLine("la division de los 2 numeros ingresados es: " + (n1 / n2));
 
-            //modificado por Francisco Jove
+            //modificado por Francisco Jove//////////////////
             if (n1 == n2)
             {
                 Console.WriteLine("Los numeros son iguales.");
